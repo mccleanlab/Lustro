@@ -9,6 +9,5 @@ Lustro is a platform for performing automated optogenetics experiments. https://
 
 The sample script generates the following two graphs:
 
-![image](https://github.com/mccleanlab/Lustro/assets/92339134/b5a0dec4-4dea-4183-9c9c-1edd105f6e8d)
-
-![image](https://github.com/mccleanlab/Lustro/assets/92339134/e4c22cb5-9992-420a-ad62-105eea239dbd)
+![Ex_graph_1](https://github.com/mccleanlab/Lustro/assets/92339134/100324c2-3085-4fcb-a484-d0867542756b)
+![Ex_graph_2](https://github.com/mccleanlab/Lustro/assets/92339134/7b2306a8-9bdb-497d-b897-1c38235c92a7)
